@@ -36,7 +36,7 @@
         "symfony/web-profiler-bundle": "^3.4|^4.3",
         "symfony/web-server-bundle": "^3.4|^4.3"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Infifni\\SyliusFanCourierPlugin\\": "src/",
